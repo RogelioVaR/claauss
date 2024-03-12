@@ -1,0 +1,12 @@
+body{
+    margin: 0ex;
+}
+.fon{
+    height: 400px;
+    background-image: url(esfera1.jpg);
+    color:#ffff;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken;
+}
